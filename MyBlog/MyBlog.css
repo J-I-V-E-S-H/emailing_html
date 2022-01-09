@@ -1,0 +1,23 @@
+.Introduction
+{
+  color: #3b464c;
+  font-family: 'Handlee', cursive;
+  float: left;
+  background-color: #eeeeff;
+  padding: 5px;
+}
+.Introduction img.DP
+{
+  float: right;
+  height: 180px;
+  width: 160px;
+  margin-right: 10px;
+  position: relative;
+  padding: 1px;
+  border: 5px solid green;
+}
+
+body
+{
+  background-color: #eeffee;
+}
